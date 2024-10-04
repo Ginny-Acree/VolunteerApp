@@ -8,7 +8,7 @@ using Microsoft.VisualBasic; // Include for ToList()
 
 Random rnd = new Random();
 int index;
-string inputFile = @"/Users/baezej/Desktop/UnityProjects/UnityProjects/Users/baezej/Desktop/UnityProjects/UnityProjects/EricBaezEndlessRunnerWIP0820/ClassroomNamePickerCS/Names.csv";// replace with your csv files name
+string inputFile = @"/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/Names.csv";// replace with your csv files name
 List<ColumnToList> outputRecords = new(); //creates an empty list where you can store the filtered list
 
 using var reader = new StreamReader(inputFile); //reads the csv file 

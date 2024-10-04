@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VolunteerApp
-build_property.ProjectDir = /Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/
+build_property.ProjectDir = /Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

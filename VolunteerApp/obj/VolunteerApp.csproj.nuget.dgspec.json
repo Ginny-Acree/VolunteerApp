@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/VolunteerApp.csproj": {}
+    "/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/VolunteerApp.csproj": {}
   },
   "projects": {
-    "/Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/VolunteerApp.csproj": {
+    "/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/VolunteerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/VolunteerApp.csproj",
+        "projectUniqueName": "/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/VolunteerApp.csproj",
         "projectName": "VolunteerApp",
-        "projectPath": "/Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/VolunteerApp.csproj",
-        "packagesPath": "/Users/baezej/.nuget/packages/",
-        "outputPath": "/Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/obj/",
+        "projectPath": "/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/VolunteerApp.csproj",
+        "packagesPath": "/Users/nvacree/.nuget/packages/",
+        "outputPath": "/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/baezej/.nuget/NuGet/NuGet.Config"
+          "/Users/nvacree/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

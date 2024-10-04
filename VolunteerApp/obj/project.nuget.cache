@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oendrDkpqvI=",
+  "dgSpecHash": "333Kyo1cRoo=",
   "success": true,
-  "projectFilePath": "/Users/baezej/Desktop/CourseFiles/APCSP/VolunteerAppTemplate/VolunteerApp/VolunteerApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/nvacree/github-classroom/Loften-High-School/volunteerapp-Ginny-Acree/VolunteerApp/VolunteerApp/VolunteerApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nvacree/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
